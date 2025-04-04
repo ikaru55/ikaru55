@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jinwook's%20World&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> sdf1 </h2>  
+    <h2 style="border-bottom: 1px 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> sdf2 </div> 
     </div>
 <!--내용 부분-->
