@@ -20,8 +20,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px 
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> sdf2 </div> 
-    </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
 <!--내용 부분-->
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠 Tools 🛠 </h2> <br> 
